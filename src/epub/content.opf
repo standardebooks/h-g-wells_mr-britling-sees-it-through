@@ -38,7 +38,7 @@
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">sh85145220</meta>
 		<meta property="schema:genre">Fiction</meta>
-		<dc:abstract>A civilian in rural Essex attempts to understand the purpose of World War I.</dc:abstract>
+		<meta property="schema:abstract">A civilian in rural Essex attempts to understand the purpose of World War I.</meta>
 		<dc:description>
 			&lt;p&gt;Life at the writer Mr. Britling’s estate in the Essex countryside is idyllic. Guests arrive, games are played, and minor love affairs play out. During the early summer of 1914 Germany is discussed, but talk of war is dismissed as fanciful and less important than the situation happening at the same time in Ireland.&lt;/p&gt;
 			&lt;p&gt;The outbreak of the war changes everything. Some of the men are sent off to fight, while the formerly beautiful countryside becomes a playground for the British troops, and German zeppelins attack the Essex coast. The mood alternates between euphoric and despondent. Friendships unravel, loved ones die, and society begins to fall apart as the incompetence and cruelty of the leaders on all sides becomes clear. Throughout it all Mr. Britling tries his best to understand the war. Surely it must have a purpose?&lt;/p&gt;
